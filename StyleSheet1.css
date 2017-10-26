@@ -1,0 +1,45 @@
+﻿.wrapper
+{
+width:950px;
+background:#eee;
+margin:0 auto 0auto;
+}
+.heading
+{
+	height:100px;
+	background:#ffa07a;
+	padding: 20px;
+	text-align:center;
+}
+
+.navigation
+{
+	height: 50px;
+	background: lightblue;
+}
+
+.content
+{
+	min-height:400px;
+	background:#ddd;
+	width:400px;
+	float:left;
+}
+
+.sidebar
+{
+	width:200px;
+	float:right;
+	background:cyan;
+	min-height: 400px;
+}
+
+.footer
+{
+	clear:both;
+	background:black;
+	height:40px;
+	color:white;
+	text-align: center;
+	padding:10px;
+}
